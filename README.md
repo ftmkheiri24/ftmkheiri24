@@ -6,7 +6,7 @@
 
 **Water Resources Engineer working at the intersection of hydrology, urban flooding, climate change, and data-driven water research.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-ftmkheiri24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ftmkheiri24)
+[![GitHub](https://img.shields.io/badge/GitHub-ftmkheiri24-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ftmkheiri24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fatemeh%20Kheiri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatemeh-kheirii/)
 
 </div>
 
@@ -19,7 +19,7 @@
 * 🏙️ I use **PCSWMM/SWMM5.2** for rainfall-runoff and urban-drainage modelling.
 * 🌍 My research experience includes climate downscaling, design-storm development, urbanization scenarios, and hydrological modelling.
 * 🗺️ I use **ArcGIS, QGIS, Google Earth Engine, and Sentinel-1 imagery** for watershed and flood-related spatial analysis.
-* 🐍 I am developing my skills in **Python, machine learning, and hydrological time-series analysis**.
+* 🐍 I am developing my skills in **Python and machine learning for streamflow prediction**.
 * 📄 I have two first-author manuscripts: one under review and one submitted.
 
 ---
@@ -137,7 +137,7 @@ The project includes:
 
 ## 🌱 Currently Developing
 
-* Hydrological time-series modelling and machine-learning evaluation
+* Machine learning for streamflow prediction
 * Reproducible scientific Python and Git workflows
 * Google Earth Engine, SWAT, and HEC-RAS
 
