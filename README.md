@@ -123,17 +123,6 @@ The project includes:
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ftmkheiri24&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftmkheiri24&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## 🌱 Currently Developing
 
